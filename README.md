@@ -1,4 +1,4 @@
-# Portfolio landing page
+# Jquery assignment
 
 #### A website for my landing page portfolio
 
@@ -11,6 +11,7 @@ with regards to the use of html and css.When applying html tags and css selector
 The porfolio landing page, will showcase an about me section,projects and hobbies html pages to make the website more interactive.With the use of anchor tags and link tags, that link the websites elements with directories that contain items to be displayed or accessed.
 
 https://github.com/george-ongaya1/jquery.git
+
 
 ## Setup/Installation Requirements
 - Copy the url -https://github.com/george-ongaya1/jquery.gitgit
@@ -38,3 +39,4 @@ Copyright (c) 2021 by George Ongaya (https://github.com/george-ongaya1/jquery.gi
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following condition:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
